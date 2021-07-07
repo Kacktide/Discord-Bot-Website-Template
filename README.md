@@ -16,4 +16,5 @@
 
 > Animated approximate counter (Servers, User, Channels)
 
+> Custom Overflow (Scrollbar)
 # Screenshots:
