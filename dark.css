@@ -1,0 +1,128 @@
+.header-ub {
+    padding-top: 15%;
+   text-align: center;
+   font-size: 5rem;
+   color: white;
+}
+
+.desc {
+   text-align: center;
+}
+
+.button-section {
+    padding-top: 2%;
+   text-align: center;
+}
+.btn-hvr {
+   transition: 0.54s ease-in;
+}
+.btn-hvr:hover {
+    transform: scale(1.2);
+}
+.container2 {
+    background-color: #105365;
+    max-width: 100%;
+    
+    
+}
+
+.why-us {
+    color: #fff;
+    text-align: center;
+    font-size: 4.5rem !important;
+    padding-bottom: 6%;
+}
+
+.icons123 {
+    color:white;
+    transform: translateX(55%);
+}
+
+.card-custom {
+    background-color: rgb(66, 54, 66);
+    padding: 1rem;
+    margin: 4%;
+    transition: 0.45s ease;
+    border-radius: 3%;
+    border: 2px solid rgb(59, 53, 53);
+    user-select: none;
+}
+.card-custom:hover {
+    cursor: pointer;
+    transform: scale(1.05)
+}
+
+.textcustom {
+    color: white;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.text {
+   text-align: center;
+}
+.server-count {
+    display: flex;
+    padding-left: 6%;
+}
+.custom0 {
+    color:#fff;
+    font-size: 5rem;
+}
+.increase-1 {
+   color:#fff;
+   font-size: 5rem;
+   transform: translateX(-90vh);
+  
+}
+body::-webkit-scrollbar {
+    width: 0.6em;
+  }
+   
+  body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+
+  }
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 4px;
+  }
+
+  .counterr {
+      font-size: 3rem;
+      color:rgb(172, 164, 164);
+      padding-left: -3%;
+  }
+
+  .icon-color-white {
+      color:beige;
+  }
+
+  .why-wait {
+    background-color: rgb(53, 53, 53);
+    width: ;
+    padding: 1rem;
+    border: 1px solid rgb(110, 108, 108);
+    padding-bottom: 3%;
+  }
+
+  .why-wait h1 {
+     color: #fff;
+     font-size: 3rem !IMPORTANT;
+     text-align: center;
+
+  }
+
+  .why-wait p {
+      font-size: 2rem;
+  }
+
+  .button-custom {
+      margin-top: 4%;
+  }
+
+  .copyright {
+      color: #fff;
+      font-size: 1.5rem;
+  }
