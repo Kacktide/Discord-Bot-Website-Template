@@ -1,12 +1,14 @@
 # Discord Bot Website Template! - Degisned and made by FURY!
 
- Cool and beautiful looking website made with ❤️! [Live Demo](https://kacktide.github.io/Discord-Bot-Website-Template/)
+ Cool and beautiful looking website made with ❤️! [Live Demo](https://kacktide.github.io/Discord-Bot-Website-Template/).
+ 
+Built with HTML, CSS & Javascript!
 
 
 # Includes:
 > Mordern Design
 
-> 90% Responsive/Mobile friendly. 
+> 85% Responsive/Mobile friendly. 
 
 > Fully customizable
 
@@ -34,3 +36,5 @@ Please give a ⭐ if you like this website!
 15 Stars = Commands Page with search!
 
 Feel free to open an pull request if you encounter an error!
+
+# Thanks for using this template and reading this! 
