@@ -19,6 +19,8 @@ Built with HTML, CSS & Javascript!
 > Animated approximate counter (Servers, User, Channels)
 
 > Custom Overflow (Scrollbar)
+
+> SEO optimization
 # Screenshots:
 
 ![First Section](https://cdn.discordapp.com/attachments/802859558925893672/862250268846456832/wweb1.PNG)
