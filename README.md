@@ -32,12 +32,18 @@ Built with HTML, CSS & Javascript!
 ![Footer Section](https://cdn.discordapp.com/attachments/802859558925893672/862250790433325056/asdasdasdasdasdadasdadsa.PNG)
 
 # Tutorial
-
+ **SEO**
+ 
+ ![Embeded Links](https://cdn.discordapp.com/attachments/802859558925893672/862266283620958228/unknown.png)
+ > How to edit(Steps)
+  1. Go to `index.html`.
+  2. Go to head and you can find a html comment for SEO/ Embeded Links
+  3. Replace the sample text to fit your needs!
 
 
 If you need any help you can contact via discord @ FURY#6969.
 
-Please give a ⭐ if you like this website!
+Please give a ⭐ if you like this project.
 
 15 Stars = Commands Page with search!
 
