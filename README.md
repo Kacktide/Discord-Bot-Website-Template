@@ -19,8 +19,6 @@ Built with HTML, CSS & Javascript!
 > Animated approximate counter (Servers, User, Channels)
 
 > Custom Overflow (Scrollbar)
-
-> SEO optimization
 # Screenshots:
 
 ![First Section](https://cdn.discordapp.com/attachments/802859558925893672/862250268846456832/wweb1.PNG)
@@ -30,6 +28,10 @@ Built with HTML, CSS & Javascript!
 ![Third Section](https://cdn.discordapp.com/attachments/802859558925893672/862250727001554944/channels.PNG)
 
 ![Footer Section](https://cdn.discordapp.com/attachments/802859558925893672/862250790433325056/asdasdasdasdasdadasdadsa.PNG)
+
+# Tutorial
+
+
 
 If you need any help you can contact via discord @ FURY#6969.
 
