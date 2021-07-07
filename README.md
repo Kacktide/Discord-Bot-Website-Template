@@ -1,2 +1,19 @@
-# Discord-Bot-Website-Template
-Looking for a good template for your discord bot website template? You're are at the perfect place! 
+# Discord Bot Website Template! - Degisned and made by FURY!
+
+ Cool and beautiful looking website made with ❤️!
+
+
+# Includes:
+> Mordern Design
+
+> 90% Responsive/Mobile friendly. 
+
+> Fully customizable
+
+> Free
+
+> Features section
+
+> Animated approximate counter (Servers, User, Channels)
+
+# Screenshots:
