@@ -60,7 +60,7 @@ Built with HTML, CSS & Javascript!
 
 
 
-```https://github.com/Kacktide/Discord-Bot-Website-Template.git```
+```git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git```
 
 
 
