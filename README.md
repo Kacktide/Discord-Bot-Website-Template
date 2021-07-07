@@ -34,8 +34,24 @@ Built with HTML, CSS & Javascript!
 # Tutorial
 
 **Installation**
- Download In ZIP
+
+
+> Download In ZIP
+
+> Clone this repository
+```https://github.com/Kacktide/Discord-Bot-Website-Template.git```
+ 
+ 
+ 
+ 
 ![](https://cdn.discordapp.com/attachments/802859558925893672/862294331237597184/unknown.png)
+
+
+
+
+
+
+
  **SEO**
  
  ![Embeded Links](https://cdn.discordapp.com/attachments/802859558925893672/862266283620958228/unknown.png)
