@@ -32,6 +32,10 @@ Built with HTML, CSS & Javascript!
 ![Footer Section](https://cdn.discordapp.com/attachments/802859558925893672/862250790433325056/asdasdasdasdasdadasdadsa.PNG)
 
 # Tutorial
+
+**Installation**
+ Download In ZIP
+![](https://cdn.discordapp.com/attachments/802859558925893672/862294331237597184/unknown.png)
  **SEO**
  
  ![Embeded Links](https://cdn.discordapp.com/attachments/802859558925893672/862266283620958228/unknown.png)
