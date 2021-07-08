@@ -5,6 +5,8 @@
 Built with HTML, CSS & Javascript!
 
 
+# 10 Stars = Commands Page with search!
+
 # Includes:
 > Mordern Design
 
@@ -81,7 +83,6 @@ If you need any help you can contact via discord @ FURY#6969.
 
 Please give a ⭐ if you like this project.
 
-15 Stars = Commands Page with search!
 
 Feel free to open an pull request if you encounter an error!
 
