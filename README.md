@@ -81,7 +81,7 @@ Built with HTML, CSS & Javascript!
 
 If you need any help you can contact via discord @ FURY#6969.
 
-Please give a ⭐ if you like this project.
+Please give a ⭐ if you like this project. It's totally free and costs nothing!
 
 
 Feel free to open an pull request if you encounter an error!
