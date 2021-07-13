@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 .header-ub {
     padding-top: 15%;
    text-align: center;
@@ -14,10 +21,14 @@
    text-align: center;
 }
 .btn-hvr {
+   -webkit-transition: 0.54s ease-in;
+   -o-transition: 0.54s ease-in;
    transition: 0.54s ease-in;
 }
 .btn-hvr:hover {
-    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+            transform: scale(1.2);
 }
 .container2 {
     background-color: #105365;
@@ -35,21 +46,30 @@
 
 .icons123 {
     color:white;
-    transform: translateX(55%);
+    -webkit-transform: translateX(55%);
+        -ms-transform: translateX(55%);
+            transform: translateX(55%);
 }
 
 .card-custom {
     background-color: rgb(66, 54, 66);
     padding: 1rem;
     margin: 4%;
+    -webkit-transition: 0.45s ease;
+    -o-transition: 0.45s ease;
     transition: 0.45s ease;
     border-radius: 3%;
     border: 2px solid rgb(59, 53, 53);
-    user-select: none;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
 }
 .card-custom:hover {
     cursor: pointer;
-    transform: scale(1.05)
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+            transform: scale(1.05)
 }
 
 .textcustom {
@@ -62,6 +82,8 @@
    text-align: center;
 }
 .server-count {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     padding-left: 6%;
 }
@@ -72,7 +94,9 @@
 .increase-1 {
    color:#fff;
    font-size: 5rem;
-   transform: translateX(-90vh);
+   -webkit-transform: translateX(-90vh);
+       -ms-transform: translateX(-90vh);
+           transform: translateX(-90vh);
   
 }
 body::-webkit-scrollbar {
@@ -80,7 +104,8 @@ body::-webkit-scrollbar {
   }
    
   body::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+            box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 
   }
    
