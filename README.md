@@ -79,7 +79,7 @@ Built with HTML, CSS & Javascript!
   3. Replace the sample text to fit your needs!
 
 
-If you need any help you can contact via discord @ FURY#6969.
+If you need any help you can contact via discord @ FURY#6717.
 
 Please give a ⭐ if you like this project. It's totally free and costs nothing!
 
