@@ -5,7 +5,7 @@
 Built with HTML, CSS & Javascript!
 
 
-# 10 Stars = Commands Page with search!
+# 10 Stars = Commands Page with search! and 100% responsiveness
 
 # Includes:
 > Mordern Design
