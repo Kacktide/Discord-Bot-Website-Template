@@ -7,7 +7,7 @@ Built with HTML, CSS & Javascript!
 
 # 10 Stars = Commands Page with search! and 100% responsiveness
 
-# Includes:
+# ✔️ Includes:
 > Mordern Design
 
 > 85% Responsive/Mobile friendly. 
@@ -20,7 +20,7 @@ Built with HTML, CSS & Javascript!
 
 > Animated approximate counter (Servers, User, Channels)
 
-> Custom Overflow (Scrollbar)
+> Custom Scrollbar
 
 > SEO optimisation
 # Screenshots:
