@@ -64,7 +64,7 @@ The above statement might not be added easily due to my irl work sorry 😧
 
 
 ``` 
-git clone https://github.com/Kacktide/discord-bot-website-template-dankmemer-design.git
+git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
 ```
 
 
