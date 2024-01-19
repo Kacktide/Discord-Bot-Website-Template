@@ -81,7 +81,7 @@ git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
   1. Go to `index.html`.
   2. Go to head and you can find a html comment for SEO / Embeded Links
   3. Replace the sample text to fit your needs!
-> Or go to ![My Meta Tags Generator Page](https://kacktide.github.io/meta-tags-generator/) and replace the existing one 
+> Or go to [My Meta Tags Generator Page](https://kacktide.github.io/meta-tags-generator/) and replace the existing one 
 
 
 If you need any help you can contact via discord @kacktide
