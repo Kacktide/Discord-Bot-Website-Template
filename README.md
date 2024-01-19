@@ -64,7 +64,7 @@ The above statement might not be added easily due to my irl work sorry 😧
 
 
 ``` 
-git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
+git clone https://github.com/Kacktide/discord-bot-website-template-dankmemer-design.git
 ```
 
 
@@ -75,19 +75,24 @@ git clone https://github.com/Kacktide/Discord-Bot-Website-Template.git
 
  **SEO**
  
- ![Embeded Links](https://cdn.discordapp.com/attachments/802859558925893672/862266283620958228/unknown.png)
+![image](https://github.com/Kacktide/Discord-Bot-Website-Template/assets/70317531/a04489c7-a918-4aa0-8a50-95356a45a466)
+
  > How to edit(Steps)
   1. Go to `index.html`.
-  2. Go to head and you can find a html comment for SEO/ Embeded Links
+  2. Go to head and you can find a html comment for SEO / Embeded Links
   3. Replace the sample text to fit your needs!
+> Or go to ![My Meta Tags Generator Page](https://kacktide.github.io/meta-tags-generator/) and replace the existing one 
 
 
-If you need any help you can contact via discord @ FURY#6717.
+If you need any help you can contact via discord @kacktide
+
 
 Please give a ⭐ if you like this project. It's totally free and costs nothing!
 
 
-Feel free to open an pull request if you encounter an error!
+Feel free to open an issue if you encounter an error!
+
+If you can improve it, open a pull request and I will add it if its appropriate!
 
 
 # Thanks for using my template and reading this! 
